@@ -19,7 +19,7 @@
 
         <TextView
             android:id="@+id/titleDetail"
-            style="@style/TextAppearance.AppCompat.Headline"
+            style="@style/SportsDetailTitle"
             android:theme="@style/ThemeOverlay.AppCompat.Dark"
             android:layout_alignBottom="@+id/sportsImageDetail"
             android:layout_width="wrap_content"
